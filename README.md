@@ -1,4 +1,4 @@
-# NEXDesk — AI-Based Smart IT Ticket Management System
+# NEXDESK — AI-Based Smart IT Ticket Management System
 
 A production-ready, full-stack helpdesk platform with an **NVIDIA AI assistant** that
 converses with employees, detects intent, troubleshoots, and proposes tickets —
