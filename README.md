@@ -1,29 +1,4 @@
-You have 2 new messages.
-
-Skip to content
-Using Gmail with screen readers
-1 of 1,858
-ai support
-Inbox
-
-Pooventhan R
-11:30 PM (22 minutes ago)
-New folder.ziphi this pooventhan here
-
-Pooventhan R <pooventhan.r4526@gmail.com>
-Attachments
-11:53 PM (0 minutes ago)
-to me
-
-
-
-
- One attachment
-  •  Scanned by Gmail
-
-
-
-# ITDesk — AI-Based Smart IT Ticket Management System
+# NEXDESK — AI-Based Smart IT Ticket Management System
 
 A production-ready, full-stack helpdesk platform with an **NVIDIA AI assistant** that
 converses with employees, detects intent, troubleshoots, and proposes tickets —
