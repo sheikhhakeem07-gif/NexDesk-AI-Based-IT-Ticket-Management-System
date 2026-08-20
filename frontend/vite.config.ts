@@ -12,6 +12,10 @@ export default defineConfig({
     },
   },
   server: {
+    // Pin to a single, fixed port. strictPort makes Vite fail loudly instead of
+    // silently falling back to 5174 when 5173 is already occupied.
+    port: 5173,
+    strictPort: true,
     proxy: {
       '/api': {
         target: 'http://127.0.0.1:8000',

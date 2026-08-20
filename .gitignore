@@ -7,7 +7,9 @@ venv/
 
 # Env / secrets
 .env
+.env.*
 !.env.example
+build/
 
 # Data & uploads
 backend/data/
